@@ -5,7 +5,7 @@ Newly introduced features include:
  - Video captioning features
  - [BERT](https://arxiv.org/abs/1810.04805) Sentence Embeddings
 
-![Architecture Diagram](doc/ArchDiag.png)
+![Architecture Diagram](ArchDiag.png)
 
 ## Training the model
 1) Download "Object Segmentation Features" and "Video Understanding Features" (Video caption features) from the following link and extract to ./data directory.
